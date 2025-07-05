@@ -11,11 +11,20 @@
 
 - 📄 My Resume: https://drive.google.com/file/d/1CHFzNr94OzTP8d3asOk6cXpckD4yRwsd/view?usp=drive_link
   
-- ⭐ Power BI Portfolio: 
 
 ## About Me
 
 Hello! I'm Alok Zende, a Power BI Data Analyst with extensive skills in MySQL, Power BI, and Advanced Excel. Currently, I work as a Principal Business Analyst within the logistics industry at Shipco IT Pvt Ltd, where I specialize in leveraging data to drive strategic decisions and optimize operations. I'm responsible for logistics KPIs, stats, and compliance reporting. 
+
+## Skills
+
+- **Power BI:** Proficient in creating interactive reports and dashboards to visualize data insights.
+- **MySQL:** Experienced in database management and SQL queries for data extraction and analysis.
+- **Advanced Excel:** Skilled in data manipulation, complex formulas, and pivot tables for in-depth analysis.
+
+   ## Experience
+
+- **Current Position:** Principal Business Analyst at Shipco IT Pvt Ltd, specializing in logistics analytics and process optimization.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alok-zende-882449213) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zendealok@gmail.com) 
