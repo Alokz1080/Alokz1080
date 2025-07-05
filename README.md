@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibj295&label=Profile%20views&color=0e75b6&style=flat" alt="Alokz1080
 " /> </p>
 
-- 👨‍💻 All of my projects are available at 
+- 👨‍💻 All of my projects are available at https://github.com/Alokz1080/Power-Bi.git
 
 - 💬 Ask me about **Power BI, SQL, Excel, Dashboard, Data Analytics**
 
