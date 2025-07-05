@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at 
 
-- 💬 Ask me about **Power BI, SQL, Excel, Dashboard, Data Analytics,**
+- 💬 Ask me about **Power BI, SQL, Excel, Dashboard, Data Analytics**
 
 - 📄 My Resume: https://drive.google.com/file/d/1CHFzNr94OzTP8d3asOk6cXpckD4yRwsd/view?usp=drive_link
   
