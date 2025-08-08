@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Power BI, SQL, Excel, Dashboard, Data Analytics**
 
-- 📄 My Resume: https://drive.google.com/file/d/1CHFzNr94OzTP8d3asOk6cXpckD4yRwsd/view?usp=drive_link
+- 📄 My Resume: https://drive.google.com/file/d/1T1BONHJSig6QirGQW3sKbANCRVU18xxf/view?usp=drive_link
   
 
 ## About Me
